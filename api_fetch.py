@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "b0cb5990d9msh9454d4b104d100ep12be1fjsnd00ec50f979c"
+API_KEY = "81f0ab4211mshec927e689aa9b26p14ef3fjsn7d18d391e195"
 
 headers = {
     "X-RapidAPI-Key": API_KEY,
